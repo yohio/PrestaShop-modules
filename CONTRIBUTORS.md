@@ -1,3 +1,4 @@
+- 2FR3 
 - Adyen 
 - Agustin 
 - Albin Kerouanton 
@@ -5,106 +6,146 @@
 - Alexander Wesselburg 
 - Alexandre Segura 
 - Alon Braitstein 
-- antoniofr 
-- arossetti 
+- Amala 
 - Axome 
-- baptgauthier 
 - Baptiste GAUTHIER 
-- bellini13 
 - BrandonTaylor 
 - Bruno Leveque 
-- Ceboweb 
-- cedricfontaine 
 - CINS 
-- clément hollander 
+- Ceboweb 
 - Claude Traglia 
 - Claudio Mulas 
-- clement-hollander 
-- cmouleyre 
 - Damien Metzger 
-- darko 
+- David Kelly 
+- Delboy 
 - DevNet 
 - Dh42 
-- djfm 
-- doekia 
+- Donatas Lomsargis 
 - Dvir Julius 
-- edamart 
-- e.lito 
-- elmahdi 
-- emilien-puget 
 - ESPIAU Nicolas 
-- ethercreation 
-- fram 
+- Eyal 
+- Francesco Guardiani 
+- Francois Gaillard 
 - François Gaillard 
 - François-Marie de Jouvencel 
-- Francois Gaillard 
+- Giedrius Stan 
 - Gordon Coubrough 
+- GreenItaliaWeb.it 
 - Gregory Roussac 
-- gRoussac 
 - GuigZ 
 - Guillaume DELOINCE 
 - Guillaume Illien 
-- hadjedjvincent 
 - Ibrahim Ibn Dawood 
 - IceEyz 
-- indesign47 
 - IsabelleCoccinet 
 - J. Danse 
-- jeromenadaud 
 - Jerome Nadaud 
 - Jonadabe 
 - Jonathan Wohl 
-- joseantgv 
 - Julien 
 - Julien Bijoux 
-- julienbourdeau 
 - Julien Bourdeau 
-- kazeno 
+- Jérôme Nadaud 
 - Ken Mendes 
-- khokha elmahdi 
 - Krystian Podemski 
 - Lesley Paone 
-- lsparer 
+- Livintha 
+- Ludovic 
+- Ludovic Verrecchia 
 - Luigi Massa 
-- luisalb 
 - Mathieu 
 - MatthieuB 
-- m-hume 
-- modem 
 - Obvious1809 
 - OliverMuellerShopgate 
 - PaymentSense-Developer 
 - Peter Schaeffer 
 - PrestaEdit 
 - PrestanceDesign 
-- quadrateam 
+- Quadra Informatique 
 - Quadra Team 
 - Quetzacoalt91 
-- Rémi Gaillard 
 - RaphArbuz 
-- rimas 
 - Rinku Kazeno 
 - Robert 
-- samy-r 
-- sjousse 
+- Rémi Gaillard 
+- Shamunr 
 - Sparer lilian 
+- Sven Weber 
 - Talha Umer Syed 
+- Thibaud Chauviere 
 - Thoma 
-- thoma202 
-- Thoma Biguères 
 - Thoma Bigueres 
+- Thoma Biguères 
 - Thomas 
-- tNabord 
+- Thomas N 
+- Thomas Nabord 
+- Tomasz 
 - Toto 
 - Tredez Guillaume 
-- tucoinfo 
-- vAugagneur 
 - Vincent Augagneur 
 - Vincent Terenti 
 - Wanted85 
+- Webincolor 
 - Xavier 
 - Yann 
 - Yann CYRILLE 
+- Youlyn Chinome 
 - Youness ZIOUANE 
 - ZiZuu 
+- alexsimple 
+- alonbr 
+- antoniofr 
+- apaqui 
+- arossetti 
+- baptgauthier 
+- bellini13 
+- bunsenstraat 
+- cartman 
+- cedricfontaine 
+- cegoncalves 
+- clement 
+- clement-hollander 
+- clément hollander 
+- cmouleyre 
+- darko 
+- djfm 
+- doekia 
+- e.lito 
+- edamart 
+- elmahdi 
+- emilien-puget 
+- esilvajrs2it 
+- ethercreation 
+- fram 
+- gRoussac 
+- hMaarek 
+- hadjedjvincent 
+- indesign47 
+- ironwo0d 
+- jcriadop 
+- jeromenadaud 
+- joseantgv 
+- julienbourdeau 
+- kazeno 
+- khokha elmahdi 
+- lsparer 
+- luisalb 
+- m-hume 
+- modem 
+- philong 
+- prestachris 
+- prestamodule 
+- quadrateam 
+- remixaz 
+- rimas 
+- samy-r 
+- seanmacdomhnall 
+- sjousse 
+- tNabord 
+- thoma202 
+- tpharaoh 
+- tucoinfo 
+- unknown 
+- vAugagneur 
+- youlyn 
 - zuzul 

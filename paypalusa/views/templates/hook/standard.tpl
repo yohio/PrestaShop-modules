@@ -21,7 +21,7 @@
 		<input type="hidden" name="charset" value="utf8" />
 		<input type="hidden" name="business" value="{$paypal_usa_business_account|escape:'htmlall':'UTF-8'}" />
 		<input type="hidden" name="currency_code" value="{$currency->iso_code|escape:'htmlall':'UTF-8'}" />
-		<input type="hidden" name="custom" value="{$cart->id|intval};{$cart->id_shop|intval}" />
+		<input type="hidden" name="custom" value="{$cart->id|intval};{if isset($cart->id_shop)}{$cart->id_shop|intval}{else}0{/if}" />
 		<input type="hidden" name="amount" value="{$cart->getOrderTotal(true)|floatval}" />
 		<input type="hidden" name="first_name" value="{$paypal_usa_billing_address->firstname|escape:'htmlall':'UTF-8'}" />
 		<input type="hidden" name="last_name" value="{$paypal_usa_billing_address->lastname|escape:'htmlall':'UTF-8'}" />
@@ -42,7 +42,7 @@
 		{if $paypal_usa_total_discounts == 0}
 			{foreach from=$cart->getProducts() item=paypal_usa_product name="paypal_usa_products"}
 				<input type="hidden" name="item_name_{$smarty.foreach.paypal_usa_products.index+1|escape:'htmlall':'UTF-8'}" value="{$paypal_usa_product.name|escape:'htmlall':'UTF-8'}" />
-				<input type="hidden" name="amount_{$smarty.foreach.paypal_usa_products.index+1|escape:'htmlall':'UTF-8'}" value="{$paypal_usa_product.price|floatval}" />
+				<input type="hidden" name="amount_{$smarty.foreach.paypal_usa_products.index+1|escape:'htmlall':'UTF-8'}" value="{$paypal_usa_product.price|string_format:"%.2f"}" />
 				<input type="hidden" name="quantity_{$smarty.foreach.paypal_usa_products.index+1|escape:'htmlall':'UTF-8'}" value="{$paypal_usa_product.quantity|intval}" />
 			{/foreach}
 			{assign var="paypal_usa_total_shipping" value=$cart->getOrderTotal(true, Cart::ONLY_SHIPPING)}
